@@ -1,7 +1,6 @@
-##Nimble Robotics Challenge
 
 This application uses webRTC to facilitate the communication
-between server and client to achieve real-time video streaming.  
+between server and client to achieve real-time video streaming of a bouncing ball.  
 Requirements
 - Python 3.10.10 running on macOS
 
